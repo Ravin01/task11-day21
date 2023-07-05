@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Mobile",
+        "amount" : "$100.00 - $180.00",
+        "image" : "https://www.thechennaimobiles.com/image/cache/catalog/14red1-600x600.jpg"
+    },
+    {
+        "name" : "Laptop",
+        "amount" : "$400.00 - $800.00",
+        "image" : "https://img4.gadgetsnow.com/gd/images/products/additional/large/G385884_View_1/computer-laptop/laptops/lenovo-ideapad-slim-3-81wq00mqin-4th-gen-intel-celeron-n4020-15-6-inches-everyday-computing-laptop-8gb-256gb-ssd-windows-11-platinum-grey-1-7-kg-.jpg"
+    },
+    {
+        "name" : "Tab",
+        "amount" : "$200.00 - $500.00",
+        "image" : "https://m.media-amazon.com/images/I/91BJj3PspFL._AC_UY218_.jpg"
+    },
+    {
+        "name" : "Watch",
+        "amount" : "$40.00 - $200.00",
+        "image" : "https://p.globalsources.com/IMAGES/PDT/B1187840918/Smart-Watch-Bluetooth-Heart-Rate.jpg"
+    },
+    {
+        "name" : "Keyboard",
+        "amount" : "$10.00 - $25.00",
+        "image" : "https://m.media-amazon.com/images/I/61dvBchav5L._SX679_.jpg"
+    },
+    {
+        "name" : "Mouse",
+        "amount" : "$10.00 - $20.00",
+        "image" : "https://m.media-amazon.com/images/I/516LU0H963L._AC_UY218_.jpg"
+    },
+    {
+        "name" : "Printer",
+        "amount" : "$50.00 - $80.00",
+        "image" : "https://m.media-amazon.com/images/I/611yP5eSWmL._SY450_.jpg"
+    },
+    {
+        "name" : "Bluetooth Speaker",
+        "amount" : "$20.00 - $80.00",
+        "image" : "https://m.media-amazon.com/images/I/71vI6nfLtYL._AC_UY218_.jpg"
+    }
+]
